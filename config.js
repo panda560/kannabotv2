@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
+global.sig = 'https://www.instagram.com/invites/contact/?i=9v4fftr5lrvb&utm_content=4fkjlpc'
 global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sgc = 'https://chat.whatsapp.com/KrYTgYfS4YE9vCZNGmrLcQ'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = ''
+global.povo = ''
+global.pgopay = '+62 812-7367-7810'
+global.ppulsa = '+62 812-7367-7810'
+global.ppulsa2 = '+62 819-5929-3465'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ'
+global.nomorbot = '6281959293465'
+global.nomorown = '6281273677810'
+global.namebot = 'بيان بوت'
+global.nameown = 'محمد الرزا فايز براتاما '
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ', true]
+  ['66986609139'],
+  ['84796102942'],
+  ['84358850353'],
+  ['6281273677810', 'محمد الرزا فايز براتاما ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,8 +116,8 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘มูฮัมหมัด อาเรซซา ฟาอิซ ปราตามา ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ MUHAMMAD ARREZZA FAIZ PRATAMA'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
@@ -174,7 +174,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `MUHAMMAD ARREZZA FAIZ PRATAMA `
 
 global.multiplier = 38 // The higher, The harder levelup
 
