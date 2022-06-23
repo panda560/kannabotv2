@@ -130,7 +130,7 @@ async function connectionUpdate(update) {
   }
   if (global.db.data == null) await loadDatabase()
   console.log(JSON.stringify(update, null, 4))
-  if (update.receivedPendingNotifications) conn.sendMessage(`6285334930628@s.whatsapp.net`, {text: 'Successfully connected by Kanna BOT' }) //made by Gama Naufal 
+  if (update.receivedPendingNotifications) conn.sendMessage(`6281273677810@s.whatsapp.net`, {text: 'Successfully connected by أريززا 20 ' }) //made by Gama Naufal 
 }
 
 
