@@ -45,8 +45,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://www.instagram.com/invites/contact/?i=9v4fftr5lrvb&utm_content=4fkjlpc'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/KrYTgYfS4YE9vCZNGmrLcQ'
+global.sgh = 'https://github.com/panda560'
+global.sgc = 'https://chat.whatsapp.com/C6ahuoDnxXh9zbDnw9wYrb'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
@@ -59,18 +59,18 @@ global.ppulsa2 = '+62 819-5929-3465'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281959293465'
+global.nomorbot = '66986609139'
 global.nomorown = '6281273677810'
-global.namebot = 'بيان بوت'
-global.nameown = 'محمد الرزا فايز براتاما '
+global.namebot = 'P R A T A M A'
+global.nameown = 'M.A.F.PRATAMA'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['66986609139'],
   ['84796102942'],
-  ['84358850353'],
-  ['6281273677810', 'محمد الرزا فايز براتاما ', true]
+  ['6281959293465'],
+  ['6281273677810', 'P R A T A M A', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,8 +115,8 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘มูฮัมหมัด อาเรซซา ฟาอิซ ปราตามา ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '                「 P R A T A M A  BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘P R A T A M A ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ MUHAMMAD ARREZZA FAIZ PRATAMA'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
@@ -174,7 +174,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `MUHAMMAD ARREZZA FAIZ PRATAMA `
+global.stickauth = `M.A.F.PRATAMA`
 
 global.multiplier = 38 // The higher, The harder levelup
 
