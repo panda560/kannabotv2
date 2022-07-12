@@ -9,13 +9,12 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let teksnomor = `${htki} *OWNER* ${htka}
 • @${nomorown.split`@`[0]} •
 ------- ${nameown} -------
-
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
+• Owner ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂ tidak menerima save contact
+• Owner ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂ berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
-• No Telp`
+• Owner ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂ Hanya merespon yang berkaitan dengan BOT
+• No Telp owner ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
@@ -43,8 +42,8 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata", rowId: ".owner bio"},
+	    {title: "📱 • Nomor", rowId: ".owner ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂"},
+	{title: "🎨 • Biodata", rowId: ".owner ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
     },{
