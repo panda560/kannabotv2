@@ -62,7 +62,7 @@ global.psaweria = '-'
 global.nomorbot = '66986609139'
 global.nomorown = '6281273677810'
 global.namebot = 'P R A T A M A'
-global.nameown = 'M.A.F.PRATAMA'
+global.nameown = 'ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂'
 
 
 /*============== STAFF ==============*/
@@ -70,7 +70,7 @@ global.owner = [
   ['66986609139'],
   ['84796102942'],
   ['6281959293465'],
-  ['6281273677810', 'P R A T A M A', true]
+  ['6281273677810', 'ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,7 +116,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 P R A T A M A  BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘P R A T A M A ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ MUHAMMAD ARREZZA FAIZ PRATAMA'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
