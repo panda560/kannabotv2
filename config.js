@@ -46,31 +46,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://www.instagram.com/invites/contact/?i=9v4fftr5lrvb&utm_content=4fkjlpc'
 global.sgh = 'https://github.com/panda560'
-global.sgc = 'https://chat.whatsapp.com/C6ahuoDnxXh9zbDnw9wYrb'
+global.sgc = 'https://chat.whatsapp.com/GyicFEhuiwF5NF11vDuxuq'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
 global.pdana = ''
 global.povo = ''
-global.pgopay = '+62 812-7367-7810'
-global.ppulsa = '+62 812-7367-7810'
-global.ppulsa2 = '+62 819-5929-3465'
+global.pgopay = ''
+global.ppulsa = '+62 821-8133-7337'
+global.ppulsa2 = '+62 821-8133-7337'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '66986609139'
-global.nomorown = '6281273677810'
-global.namebot = 'P R A T A M A'
-global.nameown = 'ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂'
+global.nomorbot = '6282181337337'
+global.nomorown = '855389162590'
+global.namebot = 'EJYUN²⁴'
+global.nameown = 'ᴹᴿ᭄ EJYUN²⁴ofc'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['66986609139'],
-  ['84796102942'],
+  ['6282181337337'],
+  ['855389162590'],
   ['6281959293465'],
-  ['6281273677810', 'ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂', true]
+  ['855389162590', 'ᴹᴿ᭄ EJYUN²⁴ofc', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 P R A T A M A  BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴹᴿ᭄ PRATAMAOffcོ_3ঔৣ꧂˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ MUHAMMAD ARREZZA FAIZ PRATAMA'
+global.wm = '                「 ARTA  BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴹᴿ᭄ EJYUN²⁴pfc˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ TAMAofc'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
@@ -173,8 +173,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `M.A.F.PRATAMA`
+global.stickpack = 'EJYUN²⁴ofc'
+global.stickauth = `By : @arrezza20`
 
 global.multiplier = 38 // The higher, The harder levelup
 
