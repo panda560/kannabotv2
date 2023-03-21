@@ -59,18 +59,19 @@ global.ppulsa2 = '+62 821-8133-7337'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282181337337'
-global.nomorown = '855389162590'
-global.namebot = 'EJYUN²⁴'
-global.nameown = 'ᴹᴿ᭄ EJYUN²⁴ofc'
+global.nomorbot = '855389162590'
+global.nomorown = '6282181337337'
+global.namebot = 'PandaBotz'
+global.nameown = 'ᴹᴿ᭄ Faizofc'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['6282181337337'],
-  ['855389162590'],
+  ['6282181337337'],
   ['6281959293465'],
-  ['855389162590', 'ᴹᴿ᭄ EJYUN²⁴ofc', true]
+  ['6281273677810;],
+  ['6282181337337', 'ᴹᴿ᭄ Faizofc', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,8 +116,8 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ARTA  BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴹᴿ᭄ EJYUN²⁴pfc˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '                「 PANDA  BOTZ あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴹᴿ᭄ PandaBotzofc˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ TAMAofc'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
@@ -173,7 +174,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'EJYUN²⁴ofc'
+global.stickpack = 'OandaBotzofc'
 global.stickauth = `By : @arrezza20`
 
 global.multiplier = 38 // The higher, The harder levelup
